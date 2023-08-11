@@ -1,0 +1,34 @@
+{
+  "name": "pe2",
+  "version": "0.0.1",
+  "description": "A one-line service which continuously refines your AI prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrionTools/pe2.git"
+  },
+  "keywords": [
+    "ai",
+    "prompt",
+    "refinement",
+    "continuous",
+    "prompt-engineering",
+    "prompt-engineering-2",
+    "pe2",
+    "engineer",
+    "llm",
+    "gpt",
+    "gpt-3",
+    "gpt3",
+    "openai"
+  ],
+  "author": "Matt Carey <mattc@aleios.com> (http://mattzcarey.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OrionTools/pe2/issues"
+  },
+  "homepage": "https://github.com/OrionTools/pe2#readme"
+}
