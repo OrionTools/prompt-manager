@@ -1,2 +1,2 @@
-# Production Prompt Manager
+# Production Prompt Engineer
 A one-line service which continuously refines your AI prompts.
