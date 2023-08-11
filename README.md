@@ -1,2 +1,3 @@
-# Production Prompt Engineer
-A one-line service which continuously refines your AI prompts.
+# Prompt Manager
+
+A one-line service which continuously refines and engineers your AI prompt.

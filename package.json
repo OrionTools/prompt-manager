@@ -1,14 +1,14 @@
 {
-  "name": "pe2",
+  "name": "prompt-manager",
   "version": "0.0.1",
-  "description": "A one-line service which continuously refines your AI prompts.",
+  "description": "Start an agent which continuously refines and engineers your AI prompt.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OrionTools/pe2.git"
+    "url": "git+https://github.com/OrionTools/prompt-manager.git"
   },
   "keywords": [
     "ai",
@@ -28,7 +28,7 @@
   "author": "Matt Carey <mattc@aleios.com> (http://mattzcarey.com/)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/OrionTools/pe2/issues"
+    "url": "https://github.com/OrionTools/prompt-manager/issues"
   },
-  "homepage": "https://github.com/OrionTools/pe2#readme"
+  "homepage": "https://github.com/OrionTools/prompt-manager#readme"
 }
